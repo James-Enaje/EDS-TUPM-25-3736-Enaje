@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib.pyplot
+matplotlib.animation (FuncAnimation)
+seaborn 
+sklearn.model_selection (train_test_split)
+sklearn.ensemble (RandomForestRegressor)
+sklearn.linear_model (LinearRegression)
+sklearn.svm (SVR)
+sklearn.tree (DecisionTreeRegressor)
+sklearn.neighbors (KNeighborsRegressor)
+sklearn.metrics (mean_absolute_error and r2_score)
